@@ -1,5 +1,7 @@
 # Pokemon Showdown AI
 
+BSc Final Project involving the creation of an Agent that can create and improve strategies for Pokemon Showdown and excute them automatically.
+
 The objective of this project is to create an artificial intelligence that uses a mix of computer vision 
 techniques and statistical analysis to play a complex strategy game at a decent level of proficiency. 
 The artificial intelligence’s proficiency will be measured by how well it performs at the game, this 
