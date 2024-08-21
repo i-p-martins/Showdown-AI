@@ -1,0 +1,851 @@
+Name,Type,Category,Power,Accuracy
+"10,000,000 Volt Thunderbolt",Electric,Special,195,-
+Absorb,Grass,Special,20,1
+Accelerock,Rock,Physical,40,1
+Acid,Poison,Special,40,1
+Acid Armor,Poison,Status,-,-
+Acid Downpour,Poison,Special,-,-
+Acid Downpour,Poison,Physical,-,-
+Acid Spray,Poison,Special,40,1
+Acrobatics,Flying,Physical,55,1
+Acupressure,Normal,Status,-,-
+Aerial Ace,Flying,Physical,60,-
+Aeroblast,Flying,Special,100,0.95
+After You,Normal,Status,-,-
+Agility,Psychic,Status,-,-
+Air Cutter,Flying,Special,60,0.95
+Air Slash,Flying,Special,75,0.95
+All-Out Pummeling,Fighting,Special,-,-
+All-Out Pummeling,Fighting,Physical,-,-
+Ally Switch,Psychic,Status,-,-
+Amnesia,Psychic,Status,-,-
+Anchor Shot,Steel,Physical,80,1
+Ancient Power,Rock,Special,60,1
+Apple Acid,Grass,Special,80,1
+Aqua Jet,Water,Physical,40,1
+Aqua Ring,Water,Status,-,-
+Aqua Tail,Water,Physical,90,0.9
+Arm Thrust,Fighting,Physical,15,1
+Aromatherapy,Grass,Status,-,-
+Aromatic Mist,Fairy,Status,-,-
+Assist,Normal,Status,-,-
+Assurance,Dark,Physical,60,1
+Astonish,Ghost,Physical,30,1
+Astral Barrage,Ghost,Special,120,1
+Attack Order,Bug,Physical,90,1
+Attract,Normal,Status,-,1
+Aura Sphere,Fighting,Special,80,-
+Aura Wheel,Electric,Physical,110,1
+Aurora Beam,Ice,Special,65,1
+Aurora Veil,Ice,Status,-,-
+Autotomize,Steel,Status,-,-
+Avalanche,Ice,Physical,60,1
+Baby-Doll Eyes,Fairy,Status,-,1
+Baddy Bad,Dark,Special,80,0.95
+Baneful Bunker,Poison,Status,-,-
+Barb Barrage,Poison,Physical,60,1
+Barrage,Normal,Physical,15,0.85
+Barrier,Psychic,Status,-,-
+Baton Pass,Normal,Status,-,-
+Beak Blast,Flying,Physical,100,1
+Beat Up,Dark,Physical,-,1
+Behemoth Bash,Steel,Physical,100,1
+Behemoth Blade,Steel,Physical,100,1
+Belch,Poison,Special,120,0.9
+Belly Drum,Normal,Status,-,-
+Bestow,Normal,Status,-,-
+Bide,Normal,Physical,-,-
+Bind,Normal,Physical,15,0.85
+Bite,Dark,Physical,60,1
+Bitter Malice,Ghost,Special,60,100
+Black Hole Eclipse,Dark,Special,-,-
+Black Hole Eclipse,Dark,Physical,-,-
+Blast Burn,Fire,Special,150,0.9
+Blaze Kick,Fire,Physical,85,0.9
+Bleakwind Storm,Flying,Special,95,80
+Blizzard,Ice,Special,110,0.7
+Block,Normal,Status,-,-
+Bloom Doom,Grass,Special,-,-
+Bloom Doom,Grass,Physical,-,-
+Blue Flare,Fire,Special,130,0.85
+Body Press,Fighting,Physical,80,1
+Body Slam,Normal,Physical,85,1
+Bolt Beak,Electric,Physical,85,1
+Bolt Strike,Electric,Physical,130,0.85
+Bone Club,Ground,Physical,65,0.85
+Bone Rush,Ground,Physical,25,0.9
+Bonemerang,Ground,Physical,50,0.9
+Boomburst,Normal,Special,140,1
+Bounce,Flying,Physical,85,0.85
+Bouncy Bubble,Water,Special,60,1
+Branch Poke,Grass,Physical,40,1
+Brave Bird,Flying,Physical,120,1
+Breaking Swipe,Dragon,Physical,60,1
+Breakneck Blitz,Normal,Special,-,-
+Breakneck Blitz,Normal,Physical,-,-
+Brick Break,Fighting,Physical,75,1
+Brine,Water,Special,65,1
+Brutal Swing,Dark,Physical,60,1
+Bubble,Water,Special,40,1
+Bubble Beam,Water,Special,65,1
+Bug Bite,Bug,Physical,60,1
+Bug Buzz,Bug,Special,90,1
+Bulk Up,Fighting,Status,-,-
+Bulldoze,Ground,Physical,60,1
+Bullet Punch,Steel,Physical,40,1
+Bullet Seed,Grass,Physical,25,1
+Burn Up,Fire,Special,130,1
+Burning Jealousy,Fire,Special,70,1
+Buzzy Buzz,Electric,Special,60,1
+Calm Mind,Psychic,Status,-,-
+Camouflage,Normal,Status,-,-
+Captivate,Normal,Status,-,1
+Catastropika,Electric,Physical,210,-
+Ceaseless Edge,Dark,Physical,65,90
+Celebrate,Normal,Status,-,-
+Charge,Electric,Status,-,-
+Charge Beam,Electric,Special,50,0.9
+Charm,Fairy,Status,-,1
+Chatter,Flying,Special,65,1
+Chip Away,Normal,Physical,70,1
+Chloroblast,Grass,Special,120,0.95
+Circle Throw,Fighting,Physical,60,0.9
+Clamp,Water,Physical,35,0.85
+Clanging Scales,Dragon,Special,110,1
+Clangorous Soul,Dragon,Status,-,-
+Clangorous Soulblaze,Dragon,Special,185,-
+Clear Smog,Poison,Special,50,-
+Close Combat,Fighting,Physical,120,1
+Coaching,Fighting,Status,-,-
+Coil,Poison,Status,-,-
+Comet Punch,Normal,Physical,18,0.85
+Confide,Normal,Status,-,-
+Confuse Ray,Ghost,Status,-,1
+Confusion,Psychic,Special,50,1
+Constrict,Normal,Physical,10,1
+Continental Crush,Rock,Special,-,-
+Continental Crush,Rock,Physical,-,-
+Conversion,Normal,Status,-,-
+Conversion 2,Normal,Status,-,-
+Copycat,Normal,Status,-,-
+Core Enforcer,Dragon,Special,100,1
+Corkscrew Crash,Steel,Special,-,-
+Corkscrew Crash,Steel,Physical,-,-
+Corrosive Gas,Poison,Status,-,1
+Cosmic Power,Psychic,Status,-,-
+Cotton Guard,Grass,Status,-,-
+Cotton Spore,Grass,Status,-,1
+Counter,Fighting,Physical,-,1
+Court Change,Normal,Status,-,1
+Covet,Normal,Physical,60,1
+Crabhammer,Water,Physical,100,0.9
+Crafty Shield,Fairy,Status,-,-
+Cross Chop,Fighting,Physical,100,0.8
+Cross Poison,Poison,Physical,70,1
+Crunch,Dark,Physical,80,1
+Crush Claw,Normal,Physical,75,0.95
+Crush Grip,Normal,Physical,-,1
+Curse,Ghost,Status,-,-
+Cut,Normal,Physical,50,0.95
+Dark Pulse,Dark,Special,80,1
+Dark Void,Dark,Status,-,0.5
+Darkest Lariat,Dark,Physical,85,1
+Dazzling Gleam,Fairy,Special,80,1
+Decorate,Fairy,Status,-,-
+Defend Order,Bug,Status,-,-
+Defense Curl,Normal,Status,-,-
+Defog,Flying,Status,-,-
+Destiny Bond,Ghost,Status,-,-
+Detect,Fighting,Status,-,-
+Devastating Drake,Dragon,Special,-,-
+Devastating Drake,Dragon,Physical,-,-
+Diamond Storm,Rock,Physical,100,0.95
+Dig,Ground,Physical,80,1
+Dire Claw,Poison,Physical,60,100
+Disable,Normal,Status,-,1
+Disarming Voice,Fairy,Special,40,-
+Discharge,Electric,Special,80,1
+Dive,Water,Physical,80,1
+Dizzy Punch,Normal,Physical,70,1
+Doom Desire,Steel,Special,140,1
+Double Hit,Normal,Physical,35,0.9
+Double Iron Bash,Steel,Physical,60,1
+Double Kick,Fighting,Physical,30,1
+Double Slap,Normal,Physical,15,0.85
+Double Team,Normal,Status,-,-
+Double-Edge,Normal,Physical,120,1
+Draco Meteor,Dragon,Special,130,0.9
+Dragon Ascent,Flying,Physical,120,1
+Dragon Breath,Dragon,Special,60,1
+Dragon Claw,Dragon,Physical,80,1
+Dragon Dance,Dragon,Status,-,-
+Dragon Darts,Dragon,Physical,50,1
+Dragon Energy,Dragon,Special,150,1
+Dragon Hammer,Dragon,Physical,90,1
+Dragon Pulse,Dragon,Special,85,1
+Dragon Rage,Dragon,Special,-,1
+Dragon Rush,Dragon,Physical,100,0.75
+Dragon Tail,Dragon,Physical,60,0.9
+Drain Punch,Fighting,Physical,75,1
+Draining Kiss,Fairy,Special,50,1
+Dream Eater,Psychic,Special,100,1
+Drill Peck,Flying,Physical,80,1
+Drill Run,Ground,Physical,80,0.95
+Drum Beating,Grass,Physical,80,1
+Dual Chop,Dragon,Physical,40,0.9
+Dual Wingbeat,Flying,Physical,40,0.9
+Dynamax Cannon,Dragon,Special,100,1
+Dynamic Punch,Fighting,Physical,100,0.5
+Earth Power,Ground,Special,90,1
+Earthquake,Ground,Physical,100,1
+Echoed Voice,Normal,Special,40,1
+Eerie Impulse,Electric,Status,-,1
+Eerie Spell,Psychic,Special,80,1
+Egg Bomb,Normal,Physical,100,0.75
+Electric Terrain,Electric,Status,-,-
+Electrify,Electric,Status,-,-
+Electro Ball,Electric,Special,-,1
+Electroweb,Electric,Special,55,0.95
+Embargo,Dark,Status,-,1
+Ember,Fire,Special,40,1
+Encore,Normal,Status,-,1
+Endeavor,Normal,Physical,-,1
+Endure,Normal,Status,-,-
+Energy Ball,Grass,Special,90,1
+Entrainment,Normal,Status,-,1
+Eruption,Fire,Special,150,1
+Esper Wing,Psychic,Special,75,0.9
+Eternabeam,Dragon,Special,160,0.9
+Expanding Force,Psychic,Special,80,1
+Explosion,Normal,Physical,250,1
+Extrasensory,Psychic,Special,80,1
+Extreme Evoboost,Normal,Status,-,-
+Extreme Speed,Normal,Physical,80,1
+Facade,Normal,Physical,70,1
+Fairy Lock,Fairy,Status,-,-
+Fairy Wind,Fairy,Special,40,1
+Fake Out,Normal,Physical,40,1
+Fake Tears,Dark,Status,-,1
+False Surrender,Dark,Physical,80,-
+False Swipe,Normal,Physical,40,1
+Feather Dance,Flying,Status,-,1
+Feint,Normal,Physical,30,1
+Feint Attack,Dark,Physical,60,-
+Fell Stinger,Bug,Physical,50,1
+Fiery Dance,Fire,Special,80,1
+Fiery Wrath,Dark,Special,90,1
+Final Gambit,Fighting,Special,-,1
+Fire Blast,Fire,Special,110,0.85
+Fire Fang,Fire,Physical,65,0.95
+Fire Lash,Fire,Physical,80,1
+Fire Pledge,Fire,Special,80,1
+Fire Punch,Fire,Physical,75,1
+Fire Spin,Fire,Special,35,0.85
+First Impression,Bug,Physical,90,1
+Fishious Rend,Water,Physical,85,1
+Fissure,Ground,Physical,-,0.3
+Flail,Normal,Physical,-,1
+Flame Burst,Fire,Special,70,1
+Flame Charge,Fire,Physical,50,1
+Flame Wheel,Fire,Physical,60,1
+Flamethrower,Fire,Special,90,1
+Flare Blitz,Fire,Physical,120,1
+Flash,Normal,Status,-,1
+Flash Cannon,Steel,Special,80,1
+Flatter,Dark,Status,-,1
+Fleur Cannon,Fairy,Special,130,0.9
+Fling,Dark,Physical,-,1
+Flip Turn,Water,Physical,60,1
+Floaty Fall,Flying,Physical,90,0.95
+Floral Healing,Fairy,Status,-,-
+Flower Shield,Fairy,Status,-,-
+Fly,Flying,Physical,90,0.95
+Flying Press,Fighting,Physical,100,0.95
+Focus Blast,Fighting,Special,120,0.7
+Focus Energy,Normal,Status,-,-
+Focus Punch,Fighting,Physical,150,1
+Follow Me,Normal,Status,-,-
+Force Palm,Fighting,Physical,60,1
+Foresight,Normal,Status,-,-
+Forest's Curse,Grass,Status,-,1
+Foul Play,Dark,Physical,95,1
+Freeze Shock,Ice,Physical,140,0.9
+Freeze-Dry,Ice,Special,70,1
+Freezing Glare,Psychic,Special,90,1
+Freezy Frost,Ice,Special,100,0.9
+Frenzy Plant,Grass,Special,150,0.9
+Frost Breath,Ice,Special,60,0.9
+Frustration,Normal,Physical,-,1
+Fury Attack,Normal,Physical,15,0.85
+Fury Cutter,Bug,Physical,40,0.95
+Fury Swipes,Normal,Physical,18,0.8
+Fusion Bolt,Electric,Physical,100,1
+Fusion Flare,Fire,Special,100,1
+Future Sight,Psychic,Special,120,1
+Gastro Acid,Poison,Status,-,1
+Gear Grind,Steel,Physical,50,0.85
+Gear Up,Steel,Status,-,-
+Genesis Supernova,Psychic,Special,185,-
+Geomancy,Fairy,Status,-,-
+Giga Drain,Grass,Special,75,1
+Giga Impact,Normal,Physical,150,0.9
+Gigavolt Havoc,Electric,Special,-,-
+Gigavolt Havoc,Electric,Physical,-,-
+Glacial Lance,Ice,Physical,130,1
+Glaciate,Ice,Special,65,0.95
+Glare,Normal,Status,-,1
+Glitzy Glow,Psychic,Special,80,0.95
+Grass Knot,Grass,Special,-,1
+Grass Pledge,Grass,Special,80,1
+Grass Whistle,Grass,Status,-,0.55
+Grassy Glide,Grass,Physical,70,1
+Grassy Terrain,Grass,Status,-,-
+Grav Apple,Grass,Physical,80,1
+Gravity,Psychic,Status,-,-
+Growl,Normal,Status,-,1
+Growth,Normal,Status,-,-
+Grudge,Ghost,Status,-,-
+Guard Split,Psychic,Status,-,-
+Guard Swap,Psychic,Status,-,-
+Guardian of Alola,Fairy,Special,-,-
+Guillotine,Normal,Physical,-,0.3
+Gunk Shot,Poison,Physical,120,0.8
+Gust,Flying,Special,40,1
+Gyro Ball,Steel,Physical,-,1
+Hail,Ice,Status,-,-
+Hammer Arm,Fighting,Physical,100,0.9
+Happy Hour,Normal,Status,-,-
+Harden,Normal,Status,-,-
+Haze,Ice,Status,-,-
+Head Charge,Normal,Physical,120,1
+Head Smash,Rock,Physical,150,0.8
+Headbutt,Normal,Physical,70,1
+Headlong Rush,Ground,Physical,100,100
+Heal Bell,Normal,Status,-,-
+Heal Block,Psychic,Status,-,1
+Heal Order,Bug,Status,-,-
+Heal Pulse,Psychic,Status,-,-
+Healing Wish,Psychic,Status,-,-
+Heart Stamp,Psychic,Physical,60,1
+Heart Swap,Psychic,Status,-,-
+Heat Crash,Fire,Physical,-,1
+Heat Wave,Fire,Special,95,0.9
+Heavy Slam,Steel,Physical,-,1
+Helping Hand,Normal,Status,-,-
+Hex,Ghost,Special,65,1
+Hidden Power,Normal,Special,60,1
+High Horsepower,Ground,Physical,95,0.95
+High Jump Kick,Fighting,Physical,130,0.9
+Hold Back,Normal,Physical,40,1
+Hold Hands,Normal,Status,-,-
+Hone Claws,Dark,Status,-,-
+Horn Attack,Normal,Physical,65,1
+Horn Drill,Normal,Physical,-,0.3
+Horn Leech,Grass,Physical,75,1
+Howl,Normal,Status,-,-
+Hurricane,Flying,Special,110,0.7
+Hydro Cannon,Water,Special,150,0.9
+Hydro Pump,Water,Special,110,0.8
+Hydro Vortex,Water,Special,-,-
+Hydro Vortex,Water,Physical,-,-
+Hyper Beam,Normal,Special,150,0.9
+Hyper Fang,Normal,Physical,80,0.9
+Hyper Voice,Normal,Special,90,1
+Hyperspace Fury,Dark,Physical,100,-
+Hyperspace Hole,Psychic,Special,80,-
+Hypnosis,Psychic,Status,-,0.6
+Ice Ball,Ice,Physical,30,0.9
+Ice Beam,Ice,Special,90,1
+Ice Burn,Ice,Special,140,0.9
+Ice Fang,Ice,Physical,65,0.95
+Ice Hammer,Ice,Physical,100,0.9
+Ice Punch,Ice,Physical,75,1
+Ice Shard,Ice,Physical,40,1
+Icicle Crash,Ice,Physical,85,0.9
+Icicle Spear,Ice,Physical,25,1
+Icy Wind,Ice,Special,55,0.95
+Imprison,Psychic,Status,-,-
+Incinerate,Fire,Special,60,1
+Infernal Parade,Ghost,Special,60,1
+Inferno,Fire,Special,100,0.5
+Inferno Overdrive,Fire,Special,-,-
+Inferno Overdrive,Fire,Physical,-,-
+Infestation,Bug,Special,20,1
+Ingrain,Grass,Status,-,-
+Instruct,Psychic,Status,-,-
+Ion Deluge,Electric,Status,-,-
+Iron Defense,Steel,Status,-,-
+Iron Head,Steel,Physical,80,1
+Iron Tail,Steel,Physical,100,0.75
+Jaw Lock,Dark,Physical,80,1
+Judgment,Normal,Special,100,1
+Jump Kick,Fighting,Physical,100,0.95
+Jungle Healing,Grass,Status,-,-
+Karate Chop,Fighting,Physical,50,1
+Kinesis,Psychic,Status,-,0.8
+King's Shield,Steel,Status,-,-
+Knock Off,Dark,Physical,65,1
+Land's Wrath,Ground,Physical,90,1
+Laser Focus,Normal,Status,-,-
+Lash Out,Dark,Physical,75,1
+Last Resort,Normal,Physical,140,1
+Lava Plume,Fire,Special,80,1
+Leaf Blade,Grass,Physical,90,1
+Leaf Storm,Grass,Special,130,0.9
+Leaf Tornado,Grass,Special,65,0.9
+Leafage,Grass,Physical,40,1
+Leech Life,Bug,Physical,80,1
+Leech Seed,Grass,Status,-,0.9
+Leer,Normal,Status,-,1
+Let's Snuggle Forever,Fairy,Physical,190,-
+Lick,Ghost,Physical,30,1
+Life Dew,Water,Status,-,-
+Light of Ruin,Fairy,Special,140,0.9
+Light Screen,Psychic,Status,-,-
+Light That Burns the Sky,Psychic,Special,200,-
+Liquidation,Water,Physical,85,1
+Lock-On,Normal,Status,-,-
+Lovely Kiss,Normal,Status,-,0.75
+Low Kick,Fighting,Physical,-,1
+Low Sweep,Fighting,Physical,65,1
+Lucky Chant,Normal,Status,-,-
+Lunar Blessing,Psychic,Status,-,-
+Lunar Dance,Psychic,Status,-,-
+Lunge,Bug,Physical,80,1
+Luster Purge,Psychic,Special,70,1
+Mach Punch,Fighting,Physical,40,1
+Magic Coat,Psychic,Status,-,-
+Magic Powder,Psychic,Status,-,1
+Magic Room,Psychic,Status,-,-
+Magical Leaf,Grass,Special,60,-
+Magma Storm,Fire,Special,100,0.75
+Magnet Bomb,Steel,Physical,60,-
+Magnet Rise,Electric,Status,-,-
+Magnetic Flux,Electric,Status,-,-
+Magnitude,Ground,Physical,-,1
+Malicious Moonsault,Dark,Physical,180,-
+Mat Block,Fighting,Status,-,-
+Max Airstream,Flying,???,-,-
+Max Darkness,Dark,???,-,-
+Max Flare,Fire,???,-,-
+Max Flutterby,Bug,???,-,-
+Max Geyser,Water,???,-,-
+Max Guard,Normal,Status,-,-
+Max Hailstorm,Ice,???,-,-
+Max Knuckle,Fighting,???,-,-
+Max Lightning,Electric,???,-,-
+Max Mindstorm,Psychic,???,-,-
+Max Ooze,Poison,???,-,-
+Max Overgrowth,Grass,???,-,-
+Max Phantasm,Ghost,???,-,-
+Max Quake,Ground,???,-,-
+Max Rockfall,Rock,???,-,-
+Max Starfall,Fairy,???,-,-
+Max Steelspike,Steel,???,-,-
+Max Strike,Normal,???,-,-
+Max Wyrmwind,Dragon,???,-,-
+Me First,Normal,Status,-,-
+Mean Look,Normal,Status,-,-
+Meditate,Psychic,Status,-,-
+Mega Drain,Grass,Special,40,1
+Mega Kick,Normal,Physical,120,0.75
+Mega Punch,Normal,Physical,80,0.85
+Megahorn,Bug,Physical,120,0.85
+Memento,Dark,Status,-,1
+Menacing Moonraze Maelstrom,Ghost,Special,200,-
+Metal Burst,Steel,Physical,-,1
+Metal Claw,Steel,Physical,50,0.95
+Metal Sound,Steel,Status,-,0.85
+Meteor Assault,Fighting,Physical,150,1
+Meteor Beam,Rock,Special,120,0.9
+Meteor Mash,Steel,Physical,90,0.9
+Metronome,Normal,Status,-,-
+Milk Drink,Normal,Status,-,-
+Mimic,Normal,Status,-,-
+Mind Blown,Fire,Special,150,1
+Mind Reader,Normal,Status,-,-
+Minimize,Normal,Status,-,-
+Miracle Eye,Psychic,Status,-,-
+Mirror Coat,Psychic,Special,-,1
+Mirror Move,Flying,Status,-,-
+Mirror Shot,Steel,Special,65,0.85
+Mist,Ice,Status,-,-
+Mist Ball,Psychic,Special,70,1
+Misty Explosion,Fairy,Special,100,1
+Misty Terrain,Fairy,Status,-,-
+Moonblast,Fairy,Special,95,1
+Moongeist Beam,Ghost,Special,100,1
+Moonlight,Fairy,Status,-,-
+Morning Sun,Normal,Status,-,-
+Mountain Gale,Ice,Physical,100,0.85
+Mud Bomb,Ground,Special,65,0.85
+Mud Shot,Ground,Special,55,0.95
+Mud Sport,Ground,Status,-,-
+Mud-Slap,Ground,Special,20,1
+Muddy Water,Water,Special,90,0.85
+Multi-Attack,Normal,Physical,120,1
+Mystical Fire,Fire,Special,75,1
+Mystical Power,Psychic,Special,70,90
+Nasty Plot,Dark,Status,-,-
+Natural Gift,Normal,Physical,-,1
+Nature Power,Normal,Status,-,-
+Nature's Madness,Fairy,Special,-,0.9
+Needle Arm,Grass,Physical,60,1
+Never-Ending Nightmare,Ghost,Special,-,-
+Never-Ending Nightmare,Ghost,Physical,-,-
+Night Daze,Dark,Special,85,0.95
+Night Shade,Ghost,Special,-,1
+Night Slash,Dark,Physical,70,1
+Nightmare,Ghost,Status,-,1
+No Retreat,Fighting,Status,-,-
+Noble Roar,Normal,Status,-,1
+Nuzzle,Electric,Physical,20,1
+Oblivion Wing,Flying,Special,80,1
+Obstruct,Dark,Status,-,1
+Oceanic Operetta,Water,Special,195,-
+Octazooka,Water,Special,65,0.85
+Octolock,Fighting,Status,-,1
+Odor Sleuth,Normal,Status,-,-
+Ominous Wind,Ghost,Special,60,1
+Origin Pulse,Water,Special,110,0.85
+Outrage,Dragon,Physical,120,1
+Overdrive,Electric,Special,80,1
+Overheat,Fire,Special,130,0.9
+Pain Split,Normal,Status,-,-
+Parabolic Charge,Electric,Special,65,1
+Parting Shot,Dark,Status,-,1
+Pay Day,Normal,Physical,40,1
+Payback,Dark,Physical,50,1
+Peck,Flying,Physical,35,1
+Perish Song,Normal,Status,-,-
+Petal Blizzard,Grass,Physical,90,1
+Petal Dance,Grass,Special,120,1
+Phantom Force,Ghost,Physical,90,1
+Photon Geyser,Psychic,Special,100,1
+Pika Papow,Electric,Special,-,-
+Pin Missile,Bug,Physical,25,0.95
+Plasma Fists,Electric,Physical,100,1
+Play Nice,Normal,Status,-,-
+Play Rough,Fairy,Physical,90,0.9
+Pluck,Flying,Physical,60,1
+Poison Fang,Poison,Physical,50,1
+Poison Gas,Poison,Status,-,0.9
+Poison Jab,Poison,Physical,80,1
+Poison Powder,Poison,Status,-,0.75
+Poison Sting,Poison,Physical,15,1
+Poison Tail,Poison,Physical,50,1
+Pollen Puff,Bug,Special,90,1
+Poltergeist,Ghost,Physical,110,0.9
+Pound,Normal,Physical,40,1
+Powder,Bug,Status,-,1
+Powder Snow,Ice,Special,40,1
+Power Gem,Rock,Special,80,1
+Power Shift,Normal,Status,-,-
+Power Split,Psychic,Status,-,-
+Power Swap,Psychic,Status,-,-
+Power Trick,Psychic,Status,-,-
+Power Trip,Dark,Physical,20,1
+Power Whip,Grass,Physical,120,0.85
+Power-Up Punch,Fighting,Physical,40,1
+Precipice Blades,Ground,Physical,120,0.85
+Present,Normal,Physical,-,0.9
+Prismatic Laser,Psychic,Special,160,1
+Protect,Normal,Status,-,-
+Psybeam,Psychic,Special,65,1
+Psych Up,Normal,Status,-,-
+Psychic,Psychic,Special,90,1
+Psychic Fangs,Psychic,Physical,85,1
+Psychic Terrain,Psychic,Status,-,-
+Psycho Boost,Psychic,Special,140,0.9
+Psycho Cut,Psychic,Physical,70,1
+Psycho Shift,Psychic,Status,-,1
+Psyshield Bash,Psychic,Physical,70,90
+Psyshock,Psychic,Special,80,1
+Psystrike,Psychic,Special,100,1
+Psywave,Psychic,Special,-,1
+Pulverizing Pancake,Normal,Physical,210,-
+Punishment,Dark,Physical,-,1
+Purify,Poison,Status,-,-
+Pursuit,Dark,Physical,40,1
+Pyro Ball,Fire,Physical,120,0.9
+Quash,Dark,Status,-,1
+Quick Attack,Normal,Physical,40,1
+Quick Guard,Fighting,Status,-,-
+Quiver Dance,Bug,Status,-,-
+Rage,Normal,Physical,20,1
+Rage Powder,Bug,Status,-,-
+Raging Fury,Fire,Physical,90,85
+Rain Dance,Water,Status,-,-
+Rapid Spin,Normal,Physical,50,1
+Razor Leaf,Grass,Physical,55,0.95
+Razor Shell,Water,Physical,75,0.95
+Razor Wind,Normal,Special,80,1
+Recover,Normal,Status,-,-
+Recycle,Normal,Status,-,-
+Reflect,Psychic,Status,-,-
+Reflect Type,Normal,Status,-,-
+Refresh,Normal,Status,-,-
+Relic Song,Normal,Special,75,1
+Rest,Psychic,Status,-,-
+Retaliate,Normal,Physical,70,1
+Return,Normal,Physical,-,1
+Revelation Dance,Normal,Special,90,1
+Revenge,Fighting,Physical,60,1
+Reversal,Fighting,Physical,-,1
+Rising Voltage,Electric,Special,70,1
+Roar,Normal,Status,-,-
+Roar of Time,Dragon,Special,150,0.9
+Rock Blast,Rock,Physical,25,0.9
+Rock Climb,Normal,Physical,90,0.85
+Rock Polish,Rock,Status,-,-
+Rock Slide,Rock,Physical,75,0.9
+Rock Smash,Fighting,Physical,40,1
+Rock Throw,Rock,Physical,50,0.9
+Rock Tomb,Rock,Physical,60,0.95
+Rock Wrecker,Rock,Physical,150,0.9
+Role Play,Psychic,Status,-,-
+Rolling Kick,Fighting,Physical,60,0.85
+Rollout,Rock,Physical,30,0.9
+Roost,Flying,Status,-,-
+Rototiller,Ground,Status,-,-
+Round,Normal,Special,60,1
+Sacred Fire,Fire,Physical,100,0.95
+Sacred Sword,Fighting,Physical,90,1
+Safeguard,Normal,Status,-,-
+Sand Attack,Ground,Status,-,1
+Sand Tomb,Ground,Physical,35,0.85
+Sandsear Storm,Ground,Special,95,80
+Sandstorm,Rock,Status,-,-
+Sappy Seed,Grass,Physical,100,0.9
+Savage Spin-Out,Bug,Special,-,-
+Savage Spin-Out,Bug,Physical,-,-
+Scald,Water,Special,80,1
+Scale Shot,Dragon,Physical,25,0.9
+Scary Face,Normal,Status,-,1
+Scorching Sands,Ground,Special,70,1
+Scratch,Normal,Physical,40,1
+Screech,Normal,Status,-,0.85
+Searing Shot,Fire,Special,100,1
+Searing Sunraze Smash,Steel,Physical,200,-
+Secret Power,Normal,Physical,70,1
+Secret Sword,Fighting,Special,85,1
+Seed Bomb,Grass,Physical,80,1
+Seed Flare,Grass,Special,120,0.85
+Seismic Toss,Fighting,Physical,-,1
+Self-Destruct,Normal,Physical,200,1
+Shadow Ball,Ghost,Special,80,1
+Shadow Bone,Ghost,Physical,85,1
+Shadow Claw,Ghost,Physical,70,1
+Shadow Force,Ghost,Physical,120,1
+Shadow Punch,Ghost,Physical,60,-
+Shadow Sneak,Ghost,Physical,40,1
+Sharpen,Normal,Status,-,-
+Shattered Psyche,Psychic,Special,-,-
+Shattered Psyche,Psychic,Physical,-,-
+Sheer Cold,Ice,Special,-,0.3
+Shell Side Arm,Poison,Special,90,1
+Shell Smash,Normal,Status,-,-
+Shell Trap,Fire,Special,150,1
+Shelter,Steel,Status,-,-
+Shift Gear,Steel,Status,-,-
+Shock Wave,Electric,Special,60,-
+Shore Up,Ground,Status,-,-
+Signal Beam,Bug,Special,75,1
+Silver Wind,Bug,Special,60,1
+Simple Beam,Normal,Status,-,1
+Sing,Normal,Status,-,0.55
+Sinister Arrow Raid,Ghost,Physical,180,-
+Sizzly Slide,Fire,Physical,60,1
+Sketch,Normal,Status,-,-
+Skill Swap,Psychic,Status,-,-
+Skitter Smack,Bug,Physical,70,0.9
+Skull Bash,Normal,Physical,130,1
+Sky Attack,Flying,Physical,140,0.9
+Sky Drop,Flying,Physical,60,1
+Sky Uppercut,Fighting,Physical,85,0.9
+Slack Off,Normal,Status,-,-
+Slam,Normal,Physical,80,0.75
+Slash,Normal,Physical,70,1
+Sleep Powder,Grass,Status,-,0.75
+Sleep Talk,Normal,Status,-,-
+Sludge,Poison,Special,65,1
+Sludge Bomb,Poison,Special,90,1
+Sludge Wave,Poison,Special,95,1
+Smack Down,Rock,Physical,50,1
+Smart Strike,Steel,Physical,70,-
+Smelling Salts,Normal,Physical,70,1
+Smog,Poison,Special,30,0.7
+Smokescreen,Normal,Status,-,1
+Snap Trap,Grass,Physical,35,1
+Snarl,Dark,Special,55,0.95
+Snatch,Dark,Status,-,-
+Snipe Shot,Water,Special,80,1
+Snore,Normal,Special,50,1
+Soak,Water,Status,-,1
+Soft-Boiled,Normal,Status,-,-
+Solar Beam,Grass,Special,120,1
+Solar Blade,Grass,Physical,125,1
+Sonic Boom,Normal,Special,-,0.9
+Soul-Stealing 7-Star Strike,Ghost,Physical,195,-
+Spacial Rend,Dragon,Special,100,0.95
+Spark,Electric,Physical,65,1
+Sparkling Aria,Water,Special,90,1
+Sparkly Swirl,Fairy,Special,120,0.85
+Spectral Thief,Ghost,Physical,90,1
+Speed Swap,Psychic,Status,-,-
+Spider Web,Bug,Status,-,-
+Spike Cannon,Normal,Physical,20,1
+Spikes,Ground,Status,-,-
+Spiky Shield,Grass,Status,-,-
+Spirit Break,Fairy,Physical,75,1
+Spirit Shackle,Ghost,Physical,80,1
+Spit Up,Normal,Special,-,1
+Spite,Ghost,Status,-,1
+Splash,Normal,Status,-,-
+Splintered Stormshards,Rock,Physical,190,-
+Splishy Splash,Water,Special,90,1
+Spore,Grass,Status,-,1
+Spotlight,Normal,Status,-,-
+Springtide Storm,Fairy,Special,95,80
+Stealth Rock,Rock,Status,-,-
+Steam Eruption,Water,Special,110,0.95
+Steamroller,Bug,Physical,65,1
+Steel Beam,Steel,Special,140,0.95
+Steel Roller,Steel,Physical,130,1
+Steel Wing,Steel,Physical,70,0.9
+Sticky Web,Bug,Status,-,-
+Stockpile,Normal,Status,-,-
+Stoked Sparksurfer,Electric,Special,175,-
+Stomp,Normal,Physical,65,1
+Stomping Tantrum,Ground,Physical,75,1
+Stone Axe,Rock,Physical,65,0.9
+Stone Edge,Rock,Physical,100,0.8
+Stored Power,Psychic,Special,20,1
+Storm Throw,Fighting,Physical,60,1
+Strange Steam,Fairy,Special,90,0.95
+Strength,Normal,Physical,80,1
+Strength Sap,Grass,Status,-,1
+String Shot,Bug,Status,-,0.95
+Struggle,Normal,Physical,50,-
+Struggle Bug,Bug,Special,50,1
+Stuff Cheeks,Normal,Status,-,-
+Stun Spore,Grass,Status,-,0.75
+Submission,Fighting,Physical,80,0.8
+Substitute,Normal,Status,-,-
+Subzero Slammer,Ice,Special,-,-
+Subzero Slammer,Ice,Physical,-,-
+Sucker Punch,Dark,Physical,70,1
+Sunny Day,Fire,Status,-,-
+Sunsteel Strike,Steel,Physical,100,1
+Super Fang,Normal,Physical,-,0.9
+Superpower,Fighting,Physical,120,1
+Supersonic,Normal,Status,-,0.55
+Supersonic Skystrike,Flying,Special,-,-
+Supersonic Skystrike,Flying,Physical,-,-
+Surf,Water,Special,90,1
+Surging Strikes,Water,Physical,25,1
+Swagger,Normal,Status,-,0.85
+Swallow,Normal,Status,-,-
+Sweet Kiss,Fairy,Status,-,0.75
+Sweet Scent,Normal,Status,-,1
+Swift,Normal,Special,60,-
+Switcheroo,Dark,Status,-,1
+Swords Dance,Normal,Status,-,-
+Synchronoise,Psychic,Special,120,1
+Synthesis,Grass,Status,-,-
+Tackle,Normal,Physical,40,1
+Tail Glow,Bug,Status,-,-
+Tail Slap,Normal,Physical,25,0.85
+Tail Whip,Normal,Status,-,1
+Tailwind,Flying,Status,-,-
+Take Down,Normal,Physical,90,0.85
+Take Heart,Psychic,Status,-,-
+Tar Shot,Rock,Status,-,1
+Taunt,Dark,Status,-,1
+Tearful Look,Normal,Status,-,-
+Teatime,Normal,Status,-,-
+Techno Blast,Normal,Special,120,1
+Tectonic Rage,Ground,Special,-,-
+Tectonic Rage,Ground,Physical,-,-
+Teeter Dance,Normal,Status,-,1
+Telekinesis,Psychic,Status,-,-
+Teleport,Psychic,Status,-,-
+Terrain Pulse,Normal,Special,50,1
+Thief,Dark,Physical,60,1
+Thousand Arrows,Ground,Physical,90,1
+Thousand Waves,Ground,Physical,90,1
+Thrash,Normal,Physical,120,1
+Throat Chop,Dark,Physical,80,1
+Thunder,Electric,Special,110,0.7
+Thunder Cage,Electric,Special,80,0.9
+Thunder Fang,Electric,Physical,65,0.95
+Thunder Punch,Electric,Physical,75,1
+Thunder Shock,Electric,Special,40,1
+Thunder Wave,Electric,Status,-,0.9
+Thunderbolt,Electric,Special,90,1
+Thunderous Kick,Fighting,Physical,90,1
+Tickle,Normal,Status,-,1
+Topsy-Turvy,Dark,Status,-,-
+Torment,Dark,Status,-,1
+Toxic,Poison,Status,-,0.9
+Toxic Spikes,Poison,Status,-,-
+Toxic Thread,Poison,Status,-,1
+Transform,Normal,Status,-,-
+Tri Attack,Normal,Special,80,1
+Trick,Psychic,Status,-,1
+Trick Room,Psychic,Status,-,-
+Trick-or-Treat,Ghost,Status,-,1
+Triple Arrows,Fighting,Physical,50,100
+Triple Axel,Ice,Physical,20,0.9
+Triple Kick,Fighting,Physical,10,0.9
+Trop Kick,Grass,Physical,70,1
+Trump Card,Normal,Special,-,-
+Twineedle,Bug,Physical,25,1
+Twinkle Tackle,Fairy,Special,-,-
+Twinkle Tackle,Fairy,Physical,-,-
+Twister,Dragon,Special,40,1
+U-turn,Bug,Physical,70,1
+Uproar,Normal,Special,90,1
+V-create,Fire,Physical,180,0.95
+Vacuum Wave,Fighting,Special,40,1
+Veevee Volley,Normal,Physical,-,-
+Venom Drench,Poison,Status,-,1
+Venoshock,Poison,Special,65,1
+Victory Dance,Fighting,Status,-,-
+Vine Whip,Grass,Physical,45,1
+Vise Grip,Normal,Physical,55,1
+Vital Throw,Fighting,Physical,70,-
+Volt Switch,Electric,Special,70,1
+Volt Tackle,Electric,Physical,120,1
+Wake-Up Slap,Fighting,Physical,70,1
+Water Gun,Water,Special,40,1
+Water Pledge,Water,Special,80,1
+Water Pulse,Water,Special,60,1
+Water Shuriken,Water,Special,15,1
+Water Sport,Water,Status,-,-
+Water Spout,Water,Special,150,1
+Waterfall,Water,Physical,80,1
+Wave Crash,Water,Physical,75,1
+Weather Ball,Normal,Special,50,1
+Whirlpool,Water,Special,35,0.85
+Whirlwind,Normal,Status,-,-
+Wicked Blow,Dark,Physical,80,1
+Wide Guard,Rock,Status,-,-
+Wild Charge,Electric,Physical,90,1
+Wildbolt Storm,Electric,Special,95,80
+Will-O-Wisp,Fire,Status,-,0.85
+Wing Attack,Flying,Physical,60,1
+Wish,Normal,Status,-,-
+Withdraw,Water,Status,-,-
+Wonder Room,Psychic,Status,-,-
+Wood Hammer,Grass,Physical,120,1
+Work Up,Normal,Status,-,-
+Worry Seed,Grass,Status,-,1
+Wrap,Normal,Physical,15,0.9
+Wring Out,Normal,Special,-,1
+X-Scissor,Bug,Physical,80,1
+Yawn,Normal,Status,-,-
+Zap Cannon,Electric,Special,120,0.5
+Zen Headbutt,Psychic,Physical,80,0.9
+Zing Zap,Electric,Physical,80,1
+Zippy Zap,Electric,Physical,80,1
