@@ -1,3 +1,5 @@
+# Pokemon Showdown AI
+
 The objective of this project is to create an artificial intelligence that uses a mix of computer vision 
 techniques and statistical analysis to play a complex strategy game at a decent level of proficiency. 
 The artificial intelligence’s proficiency will be measured by how well it performs at the game, this 
